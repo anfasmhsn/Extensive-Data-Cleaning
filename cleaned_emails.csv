@@ -1,0 +1,4 @@
+from_raw,from_name,from_email,to,date,subject,body,Acked-by,Reviewed-by,Nacked-by,Signed-off-by,Tested-by,Suggested-by,Reported-by
+Alice Example <alice@example.com>,Alice Example,alice@example.com,dpdk@dpdk.org,"Mon, 05 Mar 2018 12:34:56 +0000",[PATCH] example,"This is a small example message.
+
+Acked-by: Bob Reviewer <bob@example.com>",Bob Reviewer <bob@example.com>,,,,,,
